@@ -1,0 +1,1 @@
+alter table agendamentos add termino datetime;

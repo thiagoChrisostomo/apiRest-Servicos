@@ -1,0 +1,1 @@
+alter table agendamentos add column usuario_id bigint;

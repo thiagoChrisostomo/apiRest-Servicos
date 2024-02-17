@@ -1,0 +1,1 @@
+alter table agendamentos add constraint fk_agendamentos_cliente_id foreign key(cliente_id) references clientes(id);
